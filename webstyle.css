@@ -1,0 +1,52 @@
+body {
+	background-color: black;
+	color: lightgrey;
+	opacity: 0.85;
+}
+
+header, p {
+	text-align: center;
+}
+
+ul.navi, a{
+	text-align: center;
+	padding: 10px;
+	color: blue;
+}
+
+.block, .list, .soon {
+	text-align: center;
+}
+
+a:hover {
+	color: white;
+	font-size: 18pt:
+}
+
+img.align-center{
+	display: block;
+	margin: auto;
+}
+
+img {
+	width: 750px;
+	height: 500px;
+	border: 2px outset white;
+}
+
+div.img{
+	width: 15%;
+	height: 10%;
+	display: inline-block;
+	
+}
+
+div.tile{
+	border: 1px solid white;
+	
+	
+}
+
+.portfolio-page .tile{
+	display: inline-block;
+}
